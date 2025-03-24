@@ -8,5 +8,5 @@ Fetch GitHub user activities for:
 Runs in CLI:
 
 example:
-node index.js <githubUsername>
+node index.js _githubUsername_<br>
 node index.js ChrisShep98
